@@ -1,5 +1,5 @@
 :seedling:
-### Olá, Bem-Vindo ao PlantCare 👋
+### Olá, Bem-Vindo ao PlantCare 👋.
 
 Sabe aquela Samambaia que todo terraço de casa tem? Você sabe quantas vezes na semana ela precisa ser regada? Duas? Três? Quatro vezes na semana? Ou pior, você está nesse exato momento se perguntando se uma samambaia precisa ser regada? E se a gente te perguntar de quanto em quanto tempo essa plantinha precisa ser podada, será que essa você sabe? Também não? 
 Então, deixa que o PlantCare te conta. 
@@ -22,7 +22,7 @@ Afinal, nossa plantinha até precisa de sol para realizar a sua fotossíntese ma
 Até mais!!
 
 
-###Linguagens 
+### Linguagens e Framework
           
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 
