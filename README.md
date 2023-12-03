@@ -20,3 +20,8 @@ Afinal, nossa plantinha até precisa de sol para realizar a sua fotossíntese ma
 :herb: - Esse link te leva direto para o Código-fonte do projeto =>
 
 Até mais!!
+
+
+##Linguagens 
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
