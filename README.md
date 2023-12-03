@@ -1,16 +1,24 @@
-### Hi there 👋
+:seedling:
+### Olá, Bem-Vindo ao PlantCare 👋
 
 <!--
-**plantcare2023/plantcare2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sabe aquela Samambaia que todo terraço de casa tem? Você sabe quantas vezes na semana ela precisa ser regada? Duas? Três? Quatro vezes na semana? Ou pior, você está nesse exato momento se perguntando se uma samambaia precisa ser regada? E se a gente te perguntar de quanto em quanto tempo essa plantinha precisa ser podada, será que essa você sabe? Também não? 
+Então, deixa que o PlantCare te conta. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+O plant, é quase que um guia de bolso, onde reúne de forma específica para cada planta os intervalos de tempo em que ela precisa ser regada, podada, adubada, quantas horas de raios solares ela precisa receber e que tipo de planta ela é quando o assunto é luminosidade.
+
+O PlantCare é ainda uma semente ou como falamos no mundo da programação, ele ainda é um MVP, que no momento possui oito tipos de espécies diferentes de plantas.
+
+Além de te contar de quanto em quanto tempo os cuidados básicos da sua planta precisa acontecer, o Plant, ainda reúne três dicas valiosas para as 3 áreas de cuidados que mais causam dúvidas em quem cuida de plantas: Rega, Adubação e Luminosidade. 
+
+Afinal, nossa plantinha até precisa de sol para realizar a sua fotossíntese mas tem umas que são mais amigas do sol do que outras. Vem descobrir se a sua planta já está nessa versão do MVP PlantCare e os cuidados básicos que ela precisa e quando precisa.
+
+
+:seedling: Esse link te leva direto para o figma do MVP PlantCare =>
+
+🪴 Esse link te leva direto para a documentação do MVP PlantCare =>
+
+🪴 Esse link te leva direto para o código-fonte do projeto =>
+
 -->
