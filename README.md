@@ -13,11 +13,11 @@ Além de te contar de quanto em quanto tempo os cuidados básicos da sua planta 
 Afinal, nossa plantinha até precisa de sol para realizar a sua fotossíntese mas tem umas que são mais amigas do sol do que outras. Vem descobrir se a sua planta já está nessa versão do MVP PlantCare e os cuidados básicos que ela precisa e quando precisa.
 
 
-:herb: - Esse link te leva direto para o Figma do MVP PlantCare =>
+:herb: - Esse link te leva direto para o Figma do MVP PlantCare => https://www.figma.com/file/JaZGRVE9hqgeGDm8zzJjr1/ProjetoPlantCarePortoDigital?type=design&node-id=112-18&mode=design
 
 :herb: - Esse link te leva direto para a documentação do MVP PlantCare =>
 
-:herb: - Esse link te leva direto para o Código-fonte do projeto =>
+:herb: - Esse link te leva direto para o Código-fonte do projeto => https://github.com/plantcare2023/PlantCare_Codigo-fonte
 
 Até mais!!
 
