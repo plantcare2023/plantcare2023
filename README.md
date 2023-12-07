@@ -17,7 +17,7 @@ Afinal, nossa plantinha até precisa de sol para realizar a sua fotossíntese ma
 
 :herb: - Esse link te leva direto para a documentação do MVP PlantCare =>
 
-:herb: - Esse link te leva direto para o Código-fonte do projeto => https://github.com/plantcare2023/PlantCare_Codigo-fonte
+:herb: - Esse link te leva direto para o Código-fonte do projeto => https://github.com/plantcare2023/PlantCare_Codigo-Fonte1
 
 Até mais!!
 
